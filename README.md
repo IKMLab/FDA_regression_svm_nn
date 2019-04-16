@@ -1,4 +1,4 @@
-# FDA-0418
+# FDA practice
 
 tutorial for: regression. SVM. nn
 
